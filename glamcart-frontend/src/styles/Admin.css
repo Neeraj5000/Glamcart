@@ -1,0 +1,30 @@
+.admin-panel {
+  padding: 20px;
+}
+
+.admin-form {
+  display: grid;
+  gap: 10px;
+  max-width: 400px;
+  margin-bottom: 30px;
+}
+
+.admin-form input,
+.admin-form textarea {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.admin-product-list {
+  list-style: none;
+  padding: 0;
+}
+
+.admin-product-list li {
+  margin-bottom: 12px;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #fff;
+}

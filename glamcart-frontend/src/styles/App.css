@@ -1,0 +1,22 @@
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+
+.app-cart-panel {
+  margin-top: 30px;
+  padding: 20px;
+  border-top: 1px solid #eee;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.app-products {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
